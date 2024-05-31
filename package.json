@@ -11,7 +11,7 @@
     "lint": "npx oxlint@latest"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "1.21.0",
+    "@react-native-async-storage/async-storage": "1.23.1",
     "@supabase/supabase-js": "^2.39.8",
     "expo": "~51.0.0",
     "expo-status-bar": "~1.11.1",
